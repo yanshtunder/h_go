@@ -1,0 +1,5 @@
+1) https://github.com/jellydator/ttlcache/blob/v3/cache.go                      сложно
+2) https://github.com/cocm1324/cstorage/blob/master/cstorage.go                 lru + cap
+3) https://github.com/Konstantin8105/SimpleTTL/blob/master/simplettl.go         изи но нет cap
+4) https://www.alexedwards.net/blog/implementing-an-in-memory-cache-in-go       классно все описано
+5) https://betterprogramming.pub/easiest-way-to-use-caching-in-golang-d3c639f9483a  юнит тестики
